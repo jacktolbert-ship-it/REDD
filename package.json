@@ -1,0 +1,12 @@
+{
+  "name": "redd-website",
+  "version": "1.0.0",
+  "description": "REDD - Premium nitric oxide beet root powder",
+  "main": "index.html",
+  "scripts": {
+    "build": "netlify build"
+  },
+  "keywords": ["redd", "nitric oxide", "beet root", "supplement"],
+  "author": "Jack Tolbert",
+  "license": "MIT"
+}
